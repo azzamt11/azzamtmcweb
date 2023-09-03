@@ -6,7 +6,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {"assets/AssetManifest.bin": "d56e82d02b0f2e663fb6b6d09fca01f4",
 "assets/AssetManifest.json": "77d6a1345efc32e98a8360549f4fdb4c",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "30d2b4e627a3d56a62102067bd6fcf54",
+"assets/fonts/MaterialIcons-Regular.otf": "62ec8220af1fb03e1c20cfa38781e17e",
 "assets/images/australia_flag.svg": "f3e7ed46bc9532fbb5282ba4282196c5",
 "assets/images/global_flag.svg": "ba486ec7952bfd5a5c9e17414a5ab61f",
 "assets/images/indonesia_flag.svg": "c043bd6614bb1abb944750b792b14e54",
@@ -34,9 +34,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "d56e82d02b0f2e663fb6b6d09fca01f4
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "013670894b0b8be81706bfe32b5233cd",
-"/": "013670894b0b8be81706bfe32b5233cd",
-"main.dart.js": "dcfe9cbabddef2b2c1a0c2184cb3d88f",
+"index.html": "428d0c4c73ce776c08e52f613951a019",
+"/": "428d0c4c73ce776c08e52f613951a019",
+"main.dart.js": "7fea013c15432b6727c95959b381b2f5",
 "manifest.json": "de66c33c866ee05110c72dff067cef78",
 "version.json": "82427482642ffd72f624fc79e9e1e76a"};
 // The application shell files that are downloaded before a service worker can
