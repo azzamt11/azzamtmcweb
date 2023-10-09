@@ -3,13 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "d56e82d02b0f2e663fb6b6d09fca01f4",
-"assets/AssetManifest.json": "77d6a1345efc32e98a8360549f4fdb4c",
+const RESOURCES = {"assets/AssetManifest.bin": "966b68e84d29f348517928e5c819ca69",
+"assets/AssetManifest.json": "bdeff08c2e8cba28dce4094aa78ab12c",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "62ec8220af1fb03e1c20cfa38781e17e",
 "assets/images/australia_flag.svg": "f3e7ed46bc9532fbb5282ba4282196c5",
 "assets/images/global_flag.svg": "ba486ec7952bfd5a5c9e17414a5ab61f",
 "assets/images/indonesia_flag.svg": "c043bd6614bb1abb944750b792b14e54",
+"assets/images/introImage_0.jpg": "ace6ca6712621c8bf500f140c5ff0788",
+"assets/images/introImage_1.jpg": "5e426f1089bcf70ddebc377dc25dca9a",
+"assets/images/introImage_2.jpg": "0ff253e437c142f043a442fc3667c3af",
 "assets/images/malaysia_flag.svg": "bee7e15ed9c8bc8429f23473f562714a",
 "assets/images/panorama.jpg": "b03e7083895d6f368c2f7f332c20a92b",
 "assets/images/philipine_flag.svg": "7f4ae4269429a315ca30ff81ea1e161f",
@@ -34,9 +37,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "d56e82d02b0f2e663fb6b6d09fca01f4
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "fe4ccfdabc895d91f96eb93a6ab7481e",
-"/": "fe4ccfdabc895d91f96eb93a6ab7481e",
-"main.dart.js": "45b98067448881ac80d6ec472a48513c",
+"index.html": "8691d8e16b71141ff46b919160f40b2b",
+"/": "8691d8e16b71141ff46b919160f40b2b",
+"main.dart.js": "1afee355f32ae6b124ee14d64ed7e2c3",
 "manifest.json": "de66c33c866ee05110c72dff067cef78",
 "version.json": "82427482642ffd72f624fc79e9e1e76a"};
 // The application shell files that are downloaded before a service worker can
